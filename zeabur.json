@@ -1,0 +1,14 @@
+{
+  "stacks": [{
+    "name": "life-kit",
+    "service": {
+      "name": "life-kit-web",
+      "type": "web",
+      "env": {
+        "PORT": "3000"
+      },
+      "buildCommand": "npm install",
+      "startCommand": "npm start"
+    }
+  }]
+}

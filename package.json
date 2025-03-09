@@ -1,0 +1,19 @@
+{
+  "name": "life-kit",
+  "version": "1.0.0",
+  "description": "人生KIT課程網站",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "life-kit",
+    "course",
+    "personal-development"
+  ],
+  "author": "雷蒙三十",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
