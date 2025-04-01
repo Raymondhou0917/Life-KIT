@@ -18,8 +18,8 @@ function addCallToAction() {
     ctaSection.className = 'cta-section';
     ctaSection.innerHTML = `
         <div class="cta-container">
-            <h3>準備好開始你的人生 KIT 旅程了嗎？</h3>
-            <p>立即加入課程，開始打造屬於你的個人化現代工作系統</p>
+            <h3>準備好開始你的「超級個體」之路了嗎？</h3>
+            <p>立即加入課程，開始聰明工作、掌握生活</p>
             <a href="#" class="cta-button">立即報名</a>
             <p class="cta-note">* 名額有限，報名從速</p>
         </div>
