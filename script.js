@@ -207,15 +207,15 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: '跨領域的內容創作者',
                     units: [
                         '旅行部落客：馬摩',
-                        '財經YouTuber：Ray (MoneyXYZ)',
-                        '多元創作者：周加恩'
+                        '財經 YouTuber：Ray (MoneyXYZ)',
+                        '喜劇演員 → 內容創作者：周加恩'
                     ]
                 },
                 {
                     title: '從正職到一人公司的轉型者',
                     units: [
-                        '創意工作者：瓦基',
-                        '數位創業家：張修修'
+                        '閱讀前哨站站長：瓦基',
+                        '不正常人類研究所：張修修'
                     ]
                 }
             ]
