@@ -190,9 +190,32 @@ document.addEventListener('DOMContentLoaded', function() {
             module: '職人訪談',
             chapters: [
                 {
-                    title: '',
+                    title: '超級個體的實踐者',
                     units: [
-                        '一年六場直播'
+                        '「超級個體」一詞的提出者：古典老師',
+                        '台灣一人公司元老代表：于為暢'
+                    ]
+                },
+                {
+                    title: '正職與副業的平衡大師',
+                    units: [
+                        '電腦玩物站長：Esor',
+                        'Podcaster＆電子報：曼尼 Manny'
+                    ]
+                },
+                {
+                    title: '跨領域的內容創作者',
+                    units: [
+                        '旅行部落客：馬摩',
+                        '財經YouTuber：Ray (MoneyXYZ)',
+                        '多元創作者：周加恩'
+                    ]
+                },
+                {
+                    title: '從正職到一人公司的轉型者',
+                    units: [
+                        '創意工作者：瓦基',
+                        '數位創業家：張修修'
                     ]
                 }
             ]
