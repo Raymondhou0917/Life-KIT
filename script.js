@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     units: [
                         '職業座標系轉換：從爬山到航海',
                         '財富自由的邏輯：複利和專注力',
-                        '這時代最需要的是「內向型人才」'
+                        '內向者的職場槓桿：寫作與非同步'
                     ]
                 },
                 {
@@ -124,7 +124,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 {
                     title: '真正的時間管理',
                     units: [
-                        '時間管理的誤區：不是去管理時間',
+                        '真正有效的時間管理：不是去管理時間',
+                        '我們都用錯了「重要緊急四象線」',
                         '行事曆和待辦清單的正確用法？',
                         '我的任務管理系統'
                     ]
