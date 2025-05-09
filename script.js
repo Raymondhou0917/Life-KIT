@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: '時代趨勢解構',
                     units: [
                         '職業座標系轉換：從爬山到航海',
-                        '財富自由的邏輯：複利和專注力',
+                        '我們所追求的財富自由是？',
                         '內向者的職場槓桿：寫作與非同步'
                     ]
                 },
@@ -29,6 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     units: [
                         '新時代的生產力工作法',
                         '數位工具戰隊：最划算的投資',
+                        '如何培養可遷移的競爭力',
                         '個人商業模式：不是叫你創業'
                     ]
                 }
@@ -69,8 +70,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: '數位工具力',
                     units: [
                         '你使用的生產力工具，決定了你與一般人的差距',
-                        '真正有效的第二大腦：不是收藏分類',
-                        '真正有效的第二大腦做法：是解決問題的系統',
+                        '真正有效的第二大腦（上）：不再用分類標籤',
+                        '真正有效的第二大腦（下）：個人知識系統全解構',
                         'AI 指令框架全指南'
                     ]
                 },
@@ -156,7 +157,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     units: [
                         '超級個體 vs 個人品牌 vs 一人公司',
                         '你適合遠距工作＆自由職業嗎？',
-                        '個人化商業模式全解構：免費試吃品到付費產品'
+                        '個人化商業模式全解構：免費試吃品到付費產品',
+                        '我踩過的那些坑，我希望你能避開'
                     ]
                 }
             ]
@@ -180,7 +182,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 {
                     title: '工作與生活整合',
                     units: [
-                        '組合式工作',
+                        '組合式工作、生活專案化',
                         '問答：朋友、知己、人生伴侶怎麼找？',
                         '找到你真正的事業，告別職業迷茫'
                     ]
@@ -191,10 +193,10 @@ document.addEventListener('DOMContentLoaded', function() {
             module: '職人訪談',
             chapters: [
                 {
-                    title: '超級個體的實踐者',
+                    title: '超級個體的先行者',
                     units: [
                         '「超級個體」一詞的提出者：古典老師',
-                        '台灣一人公司元老代表：于為暢'
+                        '台灣一人公司先行者：于為暢'
                     ]
                 },
                 {
@@ -213,7 +215,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     ]
                 },
                 {
-                    title: '從正職到一人公司的轉型者',
+                    title: '從正職到超級個體的轉職者',
                     units: [
                         '閱讀前哨站站長：瓦基',
                         '不正常人類研究所：張修修'
