@@ -218,7 +218,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: '從正職到超級個體的轉職者',
                     units: [
                         '閱讀前哨站站長：瓦基',
-                        '不正常人類研究所：張修修'
+                        '不正常人類研究所：張修修',
+                        '商業思維學院院長：游舒帆 Gipi'
                     ]
                 }
             ]
